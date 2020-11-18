@@ -2,7 +2,10 @@
   "name": "apollo-link-background-upload",
   "version": "0.0.1",
   "description": "A GraphQL multipart upload spec compliant link for use with Apollo",
-  "main": "index.js",
+  "main": "lib/index.js",
+  "files": [
+    "lib/"
+  ],
   "author": "Justin Makaila <justin@wellthapp.com>",
   "license": "MIT",
   "keywords": [
